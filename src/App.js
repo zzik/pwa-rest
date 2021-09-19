@@ -11,9 +11,7 @@ function App() {
       {
         method: "GET",
         headers: {
-          "x-rapidapi-host": "community-open-weather-map.p.rapidapi.com",
-          "x-rapidapi-key":
-            "b8442541a0msh3e3a3e1ed20cf13p17391cjsn6db72ae58944",
+
         },
       }
     )
